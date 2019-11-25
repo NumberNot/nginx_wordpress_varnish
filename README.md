@@ -4,7 +4,7 @@
 
 * Nginx conf frontend for wordpress site;
 * Nginx conf backend for wordpress site;
-* Varnish vcls;
+* Varnish VCLs;
 * Cloudflare net IPs;
 * Some other staff.
 
