@@ -6,7 +6,7 @@
 * Nginx conf backend for wordpress site;
 * Varnish vcls;
 * Cloudflare net IPs;
-* Some other staf.
+* Some other staff.
 
 ### What is it?
 
