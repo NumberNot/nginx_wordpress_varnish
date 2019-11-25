@@ -1,4 +1,4 @@
-# Nginx &amp; Wordpress &amp; Varnish &amp; Modsecurity &amp Cloudflare
+# Nginx &amp; Wordpress &amp; Varnish &amp; Modsecurity &amp; Cloudflare
 
 ### Contents
 
